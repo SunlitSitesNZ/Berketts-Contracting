@@ -1216,11 +1216,28 @@ h3 {
 }
 
 .slider-img{
-    background-image: url(/img//berkett-imgs/corasal/Tennis\ Court\ -\ Wells.jpg);
+
     filter: brightness(50%);
-    width: 100%;
     height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
+.slider-img img{
+
+    
+
+    min-height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}   
 
 
 .slider-area .single-slider {
@@ -1330,7 +1347,7 @@ h3 {
 
 
 .slider-area .single-slider .slider-content p {
-    color: #222222;
+    color: #ffffff9c;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 16px
@@ -1338,7 +1355,7 @@ h3 {
 
 .slider-area .single-slider .slider-content h3 {
     font-size: 50px;
-    color: #222222;
+    color: #ffffff;
     line-height: 1.3;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -1419,15 +1436,15 @@ h3 {
     display: block;
     margin: 13px 0;
     border-radius: 50%;
-    border: 3px solid #222;
+    border: 3px solid #ffffff;
 }
 
 .slider-area .slider-active .owl-dots div .active {
-    background: #222;
+    background: #ffffff;
 }
 
 .slider-area .slider-active .owl-dots div.active {
-    background: #222;
+    background: #ffffff;
 }
 
 /* :: Brand & Service Area CSS */
@@ -3088,7 +3105,7 @@ h3 {
 }
 
 .banner-bg-1 {
-    background-image: url(../img/banner/banner.jpg)
+    background-image: url(/img/berkett-imgs/sunset\ digger.jpg);
 }
 
 /* :: Breadcrumb Area CSS */
@@ -4897,7 +4914,10 @@ h6 {
     width: 14px;
     background: #eeeeee;
     display: inline-block;
-    margin-right: 7px
+    margin-right: 7px;
+    z-index: 1;
+
+    
 }
 
 .causes_slider .owl-dots .owl-dot:last-child {
@@ -6388,3 +6408,35 @@ h6 {
     -ms-transform: translateY(-5px);
     transform: translateY(-5px);
 }
+
+
+
+
+
+.footer-img{
+    filter: brightness(5);
+    width: 200px;
+}
+
+footer{
+    background: #2a3d66;
+}
+
+.footer-text{
+    color: rgba(255, 255, 255, 0.535);
+}
+
+.footer-text a{
+    color: rgba(255, 255, 255, 0.753);
+}
+.footer-text a:hover{
+    color: white;
+}
+
+.contact-section {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Adjust height as needed */
+    overflow: hidden;
+}
+
