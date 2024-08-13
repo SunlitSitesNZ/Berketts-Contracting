@@ -24,82 +24,11 @@
     </div>
     <!-- /Preloader -->
 
-    <!-- !header-start -->
-    <header>
-        <div class="header-area">
-            <!-- Header Top -->
-            <div class="header-top badge-light d-none d-lg-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-
-                        </div>
-                        <div class="col-md-8">
-                            <div class="header-contact text-right">
-                                <a href="#"><i class="fa fa-location-arrow"></i> 6b/750 Lower Queen Street Richmond,
-                                    Nelson</a>
-                                <a href="#"><i class="fa fa-phone"></i> 03 544 8529</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Sticky header -->
-            <div id="sticky-header" class="main-header-area white-bg">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-2 col-lg-2">
-                            <div class="logo-img">
-                                <a href="./index.html">
-                                    <img src="img/berkett-imgs/logo.png" alt="logo">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Menu Area -->
-                        <div class="col-xl-7 col-lg-7">
-                            <div class="main-menu d-none d-lg-block">
-                                <nav>
-                                    <ul id="navigation">
-                                        <li><a href="#">Home </a>
-                                        </li>
-                                        <li><a href="#">Services <i class="ti-angle-down"></i></a>
-                                            <ul class="submenu">
-                                                <li><a href="service-details.html">Earthworks</a></li>
-                                                <li><a href="service-details.html">Infrastructure</a></li>
-                                                <li><a href="service-details.html">Gravel & Quarry</a></li>
-                                                <li><a href="service-details.html">Forestry</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">About</a></li>
-
-
-
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                        <!-- Search Area -->
-                        <div class="col-xl-3 col-lg-3">
-                            <div class="quote-area">
-                                <div class="get-quote d-none d-lg-block">
-                                    <a class="boxed-btn" href="./contact.html">Contact Us</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Moblie menu -->
-                        <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </header>
+    
+     <!-- !header-start -->
+     <?php include './componants/header.php'; ?>
     <!-- header-end -->
+
 
     <!-- breadcrumb-start -->
     <section class="breadcrumb breadcrumb_bg banner-bg-1 overlay2 pt-pb-100">
@@ -184,33 +113,9 @@
     <!-- about end -->
 
 
-
-     <!-- footer-start -->
-     <footer>
-        <div style="height: 20em;">
-            <iframe
-                style=" height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1498.5297387356418!2d173.1549448879215!3d-41.30756969633432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3b968f2e603a8f%3A0x813d2388c6179caf!2sBerkett%20Contracting!5e0!3m2!1sen!2snz!4v1722404272370!5m2!1sen!2snz"
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-
-        <!-- Copy Right Area -->
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="copyright_part_text text-center">
-                        <img src="/img/berkett-imgs/logo.png" class="footer-img p-4">
-                        <p class="footer-text m-0">Copyright All rights reserved</p>
-                        <p class="footer-text">Website Developed by <a href="#" class="footer-text">Hannah Ross</a></p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <!-- footer-start -->
+    <?php include './componants/footer.php'; ?>
     <!-- footer-end -->
-
 
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>

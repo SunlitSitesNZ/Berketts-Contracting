@@ -24,81 +24,7 @@
     <!-- /Preloader -->
 
     <!-- !header-start -->
-    <header>
-        <div class="header-area">
-            <!-- Header Top -->
-            <div class="header-top badge-light d-none d-lg-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-
-                        </div>
-                        <div class="col-md-8">
-                            <div class="header-contact text-right">
-                                <a href="#"><i class="fa fa-location-arrow"></i> 6b/750 Lower Queen Street Richmond,
-                                    Nelson</a>
-                                <a href="#"><i class="fa fa-phone"></i> 03 544 8529</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Sticky header -->
-            <div id="sticky-header" class="main-header-area white-bg">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-2 col-lg-2">
-                            <div class="logo-img">
-                                <a href="./index.html">
-                                    <img src="./img/berkett-imgs/logo.png" alt="logo">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- Menu Area -->
-                        <div class="col-xl-7 col-lg-7">
-                            <div class="main-menu d-none d-lg-block">
-                                <nav>
-                                    <ul id="navigation">
-                                        <li><a href="./index.html">Home </a>
-                                        </li>
-                                        <li><a href="#">Services <i class="ti-angle-down"></i></a>
-                                            <ul class="submenu">
-                                                <li><a href="service-details.html#earthworks">Earthworks</a></li>
-                                                <li><a href="service-details?service=infrastructure">Infrastructure</a>
-                                                </li>
-                                                <li><a href="service-details.html#gravel">Gravel & Quarry</a></li>
-                                                <li><a href="service-details.html#forestry">Forestry</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">About</a></li>
-
-
-
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                        </div>
-                        <!-- Search Area -->
-                        <div class="col-xl-3 col-lg-3">
-                            <div class="quote-area">
-                                <div class="get-quote d-none d-lg-block">
-                                    <a class="boxed-btn" href="./contact.html">Contact Us</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Moblie menu -->
-                        <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </header>
+    <?php include 'componants/header.php'; ?>
     <!-- header-end -->
 
     <!-- !slider-area-start -->
@@ -117,7 +43,7 @@
                                 <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Expert Infrastructure Construction</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
-                                    <a class="boxed-btn2" href="#">Infrastructure Services <i
+                                    <a class="boxed-btn2" href="./service-details.php?service=infrastructure">Infrastructure Services <i
                                             class="Flaticon flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
@@ -138,7 +64,7 @@
                                 <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms"> Forestry Roading & Bulk Aggregate Supply</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
-                                    <a class="boxed-btn2" href="#">Forestry Services <i
+                                    <a class="boxed-btn2" href="./service-details.php?service=forestry">Forestry Services <i
                                             class="Flaticon flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
@@ -159,7 +85,7 @@
                                 <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Comprehensive Land Development</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
-                                    <a class="boxed-btn2" href="#">Earthwork Services <i
+                                    <a class="boxed-btn2" href="./service-details.php?service=earthworks">Earthwork Services <i
                                             class="Flaticon flaticon-right-arrow"></i></a>
                                 </div>
                             </div>
@@ -189,7 +115,7 @@
                                 can provide bulk aggregate supply for commercial construction, farming and forestry
                                 operations. </p>
                         </div>
-                        <a href="./service-details.html" class="read-more mt-auto">Read More</a>
+                        <a href="./service-details.php?service=gravel" class="read-more mt-auto">Read More</a>
                     </div>
                 </div>
 
@@ -206,7 +132,7 @@
                                 including drainage and pipework, roading and carpark construction, retaining walls,
                                 walkways and cycleways.</p>
                         </div>
-                        <a href="./service-details.html" class="read-more mt-auto">Read More</a>
+                        <a href="./service-details.php?service=infrastructure" class="read-more mt-auto">Read More</a>
                     </div>
                 </div>
 
@@ -227,7 +153,7 @@
                                 large scale building platforms, and detailed footings and foundations of large
                                 commercial developments.</p>
                         </div>
-                        <a href="./service-details.html" class="read-more mt-auto">Read More</a>
+                        <a href="./service-details.php?service=earthworks" class="read-more mt-auto">Read More</a>
                     </div>
                 </div>
 
@@ -244,7 +170,7 @@
                                 consenting, design, construction, maintenance and post-harvest clean-up for forestry
                                 infrastructure.</p>
                         </div>
-                        <a href="./service-details.html" class="read-more mt-auto">Read More</a>
+                        <a href="./service-details.php?service=forestry" class="read-more mt-auto">Read More</a>
                     </div>
                 </div>
 
@@ -274,7 +200,7 @@
                             small to medium earthworks, civil construction and quarrying.
 
                         </p>
-                        <a href="./about.html" class="boxed-btn">Learn More</a>
+                        <a href="./about.php" class="boxed-btn">Learn More</a>
                     </div>
                 </div>
 
@@ -304,7 +230,7 @@
                         fish <br> whales winged.</p>
                     <!-- Call to action Buton -->
                     <div class="cta-btn">
-                        <a class="boxed-btn2 black-bg" href="#">Discuss now <i
+                        <a class="boxed-btn2 black-bg" href="./contact.php">Discuss now <i
                                 class="Flaticon flaticon-right-arrow"></i></a>
                     </div>
                 </div>
@@ -382,34 +308,11 @@
 
 
     <!-- footer-start -->
-    <footer>
-        <div style="height: 20em;">
-            <iframe
-                style=" height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1498.5297387356418!2d173.1549448879215!3d-41.30756969633432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3b968f2e603a8f%3A0x813d2388c6179caf!2sBerkett%20Contracting!5e0!3m2!1sen!2snz!4v1722404272370!5m2!1sen!2snz"
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-
-        <!-- Copy Right Area -->
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="copyright_part_text text-center">
-                        <img src="./img/berkett-imgs/logo.png" class="footer-img p-4">
-                        <p class="footer-text m-0">Copyright All rights reserved</p>
-                        <p class="footer-text">Website Developed by <a href="#" class="footer-text">Hannah Ross</a></p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include 'componants/footer.php'; ?>
     <!-- footer-end -->
 
+
     <!-- JS here -->
-
-
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -439,6 +342,7 @@
     <script src="js/main.js"></script>
     <script src="./js/script.js"></script> <!-- custom js -->
 
-</body>
+
+    </body>
 
 </html>
