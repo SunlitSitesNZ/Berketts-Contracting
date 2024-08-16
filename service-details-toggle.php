@@ -39,12 +39,12 @@ $service = $_GET['service'] ?? 'infrastructure';
                                     </div>
                                     <div class="details-info">
                                         <h3>Specialist Earthworks</h3>
-                                        <p>Our expertise includes bulk earthworks, where we create large-scale building platforms tailored to your needs. We specialize in detailed footing excavation, ensuring the stability and durability of your structures from the ground up. Our team is well-equipped to handle large commercial operations, efficiently managing extensive projects with precision.</p>
+                                        <p>Our expertise includes bulk earthworks, where we create large-scale building platforms tailored to your needs. We specialise in detailed footing excavation, ensuring the stability and durability of your structures from the ground up. Our team is well-equipped to handle large commercial operations, efficiently managing extensive projects with precision.</p>
                                     
                                     </div>
                                     <div class="details-info">
-                                        <h3>Drainage</h3>
-                                        <p>Drainage is a crucial aspect of our land development services. We implement effective drainage solutions to protect your property and maintain optimal conditions. Our carpark construction services ensure that your parking facilities are durable and well-designed, catering to all your parking requirements. Additionally, we excel in detailed hard landscaping, crafting intricate hardscape features that enhance both the aesthetic and functional aspects of your property.</p>
+                                        <!-- <h3>Drainage</h3> -->
+                                        <p>Drainage is a crucial aspect of our land development services. We implement effective drainage solutions to protect your property.  Berketts also provides detailed hard landscaping, crafting intricate hardscape features that enhance both the aesthetic and functional aspects of your property.</p>
                                     </div>
                                 </div>
                             </div>
@@ -55,7 +55,8 @@ $service = $_GET['service'] ?? 'infrastructure';
                                     </div>
                                     <div class="details-info">
                                         <h3>Infrastructure</h3>
-                                        <P>We excel in roading and carpark construction, creating durable and transportation and parking solutions. Our team also specializes in building retaining walls to enhance the stability and aesthetic appeal of your property. Additionally, we construct walkways and cycleways, promoting safe and accessible pathways for pedestrians and cyclists.</P>
+                                        <P>Our carpark construction services ensure that your parking facilities are durable and well-designed. The team also specialises in building retaining walls to enhance the stability and aesthetic appeal of your property. Additionally, we construct walkways and cycleways, promoting safe and accessible pathways for pedestrians and cyclists.
+                                        </P>
                                     </div>
                                     <!-- <div class="details-info">
                                         <h3>Private Construction</h3>
@@ -73,13 +74,9 @@ $service = $_GET['service'] ?? 'infrastructure';
                                         </p>
                                     </div>
                                     <div class="details-info">
-                                        <!-- <h3>Gravel Types</h3> -->
-                                        <!-- <p>Two midst that won't place waters likeness. Them place good. Darkness meat
-                                            moved creeping whales firmament light so were from and given saying light
-                                            was his fruitful two. Creature saying in was heaven appear in dominion can't
-                                            sixth heaven winged lights bearing evening likeness. Above man thing. Fourth
-                                            lights. That had you're stars. You subdue form days years likeness female.
-                                        </p> -->
+                                    <div class="details-info">
+                                        <p>Please <a style="text-decoration: underline;" href="./contact.php">contact us</a> for prices</p>
+                                </div>
                                     </div>
                                 </div>
                             </div>
@@ -90,19 +87,10 @@ $service = $_GET['service'] ?? 'infrastructure';
                                     </div>
                                     <div class="details-info">
                                         <h3>Forestry</h3>
-                                        <p>We specialize in road construction and management for forestry operations. Our services include forest engineering road design, skidder slash management, and expert post-harvest rehabilitation. We are dedicated to maintaining environmental integrity while optimizing road infrastructure to support efficient and sustainable forestry practices.
+                                        <p>We specialise in road construction and management for forestry operations. Our services include forest roading, slash management, and post-harvest rehabilitation. We are dedicated to maintaining environmental integrity while optimising road infrastructure to support efficient and sustainable forestry practices.
                                         </p>
                                     </div>
-                                    <div class="details-info">
-                                        <!-- <h3>Gravel Types</h3> -->
-                                        <!-- <p>Two midst that won't place waters likeness. Them place good. Darkness meat
-                                            moved creeping whales firmament light so were from and given saying light
-                                            was his fruitful two. Creature saying in was heaven appear in dominion can't
-                                            sixth heaven winged lights bearing evening likeness. Above man thing. Fourth
-                                            lights. That had you're stars. You subdue form days years likeness female.
-                                        </p> -->
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>

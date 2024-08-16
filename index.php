@@ -38,9 +38,7 @@
                     <div class="row">
                         <div class="col-lg-9">
                             <div class="slider-content ">
-                                <p class="text-light" data-animation="fadeInDown" data-delay="900ms">29 Years
-                                    providing local expertise</p>
-                                <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Expert Infrastructure Construction</h3>
+                                <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Complex Infrastructure Development</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
                                     <a class="boxed-btn2" href="./service-details.php?service=infrastructure">Infrastructure Services <i
@@ -59,8 +57,6 @@
                     <div class="row">
                         <div class="col-lg-9">
                             <div class="slider-content ">
-                                <p class="text-light" data-animation="fadeInDown" data-delay="900ms">29 Years
-                                    providing local expertise</p>
                                 <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms"> Forestry Roading & Bulk Aggregate Supply</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
@@ -80,9 +76,7 @@
                     <div class="row">
                         <div class="col-lg-9">
                             <div class="slider-content ">
-                                <p class="text-light" data-animation="fadeInDown" data-delay="900ms">29 Years
-                                    providing local expertise</p>
-                                <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Comprehensive Land Development</h3>
+                                <h3 class="text-light" data-animation="fadeInDown" data-delay="400ms">Earthworks solutions</h3>
                                 <div class="text-light" class="slider-btn mt-30" data-animation="fadeInDown"
                                     data-delay="90ms">
                                     <a class="boxed-btn2" href="./service-details.php?service=earthworks">Earthwork Services <i
@@ -111,9 +105,7 @@
                         </div>
                         <div class="">
                             <h3>Gravel & Quarry</h3>
-                            <p> With two local quarries and mobile crushing and screening equipment, Berkett Contracting
-                                can provide bulk aggregate supply for commercial construction, farming and forestry
-                                operations. </p>
+                            <p> With two local quarries and mobile crushing and screening equipment, Berkett Contracting can provide bulk aggregate supply for commercial and industrial construction, farming, and forestry operations.</p>
                         </div>
                         <a href="./service-details.php?service=gravel" class="read-more mt-auto">Read More</a>
                     </div>
@@ -128,9 +120,7 @@
                         </div>
                         <div class="">
                             <h3>Infrastructure</h3>
-                            <p> We provide services to construct a wide range of commercial & industrial infrastructure
-                                including drainage and pipework, roading and carpark construction, retaining walls,
-                                walkways and cycleways.</p>
+                            <p> We provide services to construct a wide range of commercial & industrial infrastructure including drainage and pipework, roading and car park construction, retaining walls, walkways, and cycleways.</p>
                         </div>
                         <a href="./service-details.php?service=infrastructure" class="read-more mt-auto">Read More</a>
                     </div>
@@ -149,9 +139,7 @@
                         </div>
                         <div class="">
                             <h3>Earthworks</h3>
-                            <p>Commercial, industrial, and rural projects ranging from roading, shed or house sites to
-                                large scale building platforms, and detailed footings and foundations of large
-                                commercial developments.</p>
+                            <p>Commercial, industrial, and rural projects ranging from roading, shed or house sites to large scale building platforms, and detailed footings and foundations of large commercial developments.</p>
                         </div>
                         <a href="./service-details.php?service=earthworks" class="read-more mt-auto">Read More</a>
                     </div>
@@ -166,9 +154,8 @@
                         </div>
                         <div class="">
                             <h3>Forestry</h3>
-                            <p> Our experienced forestry team have the skills to provide services for resource
-                                consenting, design, construction, maintenance and post-harvest clean-up for forestry
-                                infrastructure.</p>
+                            <p> Our experienced forestry team have the skills to provide services for resource consents, design, construction, maintenance, and post-harvest clean-up for forestry infrastructure.
+                            </p>
                         </div>
                         <a href="./service-details.php?service=forestry" class="read-more mt-auto">Read More</a>
                     </div>
@@ -195,9 +182,8 @@
                         <span>How Berketts Dose it</span>
                         <h3>By Covering All Your Contracting Needs</h3>
                         <p class="para-text">
-                            Established in 1995, Berkett Contracting is a family owned and operated earthmoving business
-                            that specilises in
-                            small to medium earthworks, civil construction and quarrying.
+                        Berkett Contracting is a local family-owned and operated earthmoving business that specialises in small to medium earthworks, civil construction, and quarrying.
+
 
                         </p>
                         <a href="./about.php" class="boxed-btn">Learn More</a>
@@ -225,12 +211,10 @@
                 <div class="cta-content">
                     <!-- <h4 class="text-light font-weight-light">Lets have a chat</h4> -->
                     <h3>Have A Project In Mind?</h3>
-                    <p>Waters make fish every without firmament saw had. <br> Morning air subdue very one. Whales grass
-                        is
-                        fish <br> whales winged.</p>
+                    <p>Ready to start your next project? Contact us to discuss your ideas</p>
                     <!-- Call to action Buton -->
                     <div class="cta-btn">
-                        <a class="boxed-btn2 black-bg" href="./contact.php">Discuss now <i
+                        <a class="boxed-btn2 black-bg" href="./contact.php">Lets Talk <i
                                 class="Flaticon flaticon-right-arrow"></i></a>
                     </div>
                 </div>
@@ -240,69 +224,7 @@
     <!-- cta-area-end -->
 
     <!--  !Our Team Area -->
-    <div class="our-team-area sction-padding-100-70">
-        <div class="container">
-            <div class="row align-items-center justify-content-center">
-                <!-- Section Title -->
-                <div class="section-title text-center mb-65">
-                    <span>Our Team</span>
-                    <h3>We provide all of your <br>
-                        Civil Solutions</h3>
-                </div>
-            </div>
 
-            <div class="row justify-content-center">
-                <!-- Single Team Area -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="member-pic">
-                            <img src="./img/team/2.jpg" alt="">
-                        </div>
-                        <!-- Member Info -->
-                        <div class="member-info">
-                            <h5>John</h5>
-                            <h6>Ceo &amp; Owner</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum libero, consequatur, fugit
-                                illo nulla eveniet.</p>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Team Area -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="member-pic">
-                            <img src="./img/team/3.jpg" alt="">
-                        </div>
-                        <!-- Member Info -->
-                        <div class="member-info">
-                            <h5>Duncan Ross</h5>
-                            <h6>Cite Manager</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum libero, consequatur, fugit
-                                illo nulla eveniet.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Team Area -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="member-pic">
-                            <img src="./img/team/4.jpg" alt="">
-                        </div>
-                        <!-- Member Info -->
-                        <div class="member-info">
-                            <h5>Marianne Brooks</h5>
-                            <h6>Office &amp; Admin</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum libero, consequatur, fugit
-                                illo nulla eveniet.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!--  Our Team Area End -->
 
 

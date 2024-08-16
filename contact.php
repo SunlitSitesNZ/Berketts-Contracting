@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,7 +58,7 @@
                     <!-- Contact Form -->
                     <div class="contact_from_area clearfix mb-50">
                         <div class="contact_form">
-                            <form action="mail.php" method="post" id="main_contact_form">
+                            <form action="./mail.php" method="post" id="main_contact_form">
                                 <div class="contact_input_area">
                                     <div id="success_fail_info"></div>
                                     <div class="row">

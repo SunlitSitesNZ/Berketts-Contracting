@@ -37,7 +37,7 @@
                 <div class="col-lg-7 offset-lg-1">
                     <div class="breadcrumb_iner">
                         <div class="breadcrumb_iner_item">
-                            <h2>Our Company</h2>
+                            <h2>Berketts Contracting</h2>
                             <p> <a href="index.html" class="text-muted">Home /</a> <span></span> About</p>
                         </div>
                     </div>
@@ -53,22 +53,16 @@
             <div class="row align-items-center">
                 <div class="col-xl-5 col-md-12 col-lg-6">
                     <div class="section-title">
-                        <span>The Berkett Way</span>
+                        <span>How Berketts Dose It</span>
                         <h3>Delivering local expertise</h3>
                         <p class="para-text">
-                            Highly skilled technical and operational staff enable
-                            Berkett Contracting to “punch above its weight” in delivering value and quality to its customers. </p>
+                        Highly skilled technical and operational staff enable Berkett Contracting to punch above its weight in delivering value and quality to its customers. </p>
                             
                             <p>
-                            We work across a number of sectors: commercial construction, forestry, civil works, demolition, quarrying and
+                            We work across a number of sectors: commercial and industrial construction, house sites, forestry, civil works, demolition, quarrying and crushing, horticultural and rural work.
+ </p>
                             
-                            crushing, river works, residential subdivisions, horticultural and rural work. </p>
-                            
-                            <p>We place a high value on specialist training and as
-                            such have a highly qualified operative staff, civil trades,
-                            quarry management, resource management and
-                            
-                            environmental monitoring. </p>
+                            <p>We place a high value on specialist training and as such have a highly qualified operative staff, civil trades, quarry management, resource management, and environmental monitoring.  </p>
                             
                             
 
@@ -79,7 +73,7 @@
 
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-thumb">
-                        <img src="img/berkett-imgs/about us/digger-lifts-digger.jpg" alt="">
+                        <img src="img/berkett-imgs/about us/digger-lifts-digger.jpg" alt="digger-img">
                     </div>
                 </div>
             </div>
@@ -102,8 +96,8 @@
                         <span>Placing A high standard</span>
                         <h3>On experience and team work</h3>
                         <p class="para-text">
-                            Our staff hold the appropriate modules to allow their specialist skills to be utilized in the civil construction and forest
-                            environment.
+                        Our highly efficient and experienced staff take pride in their work to provide the best quality for our clients. Berketts are your trusted choice for all your earthworks needs. 
+
                         </p>
                     </div>
                 </div>
