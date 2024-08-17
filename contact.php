@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +13,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/responsive.css">
 </head>
 
 <body>
@@ -24,8 +24,8 @@
     </div>
     <!-- /Preloader -->
 
-     <!-- !header-start -->
-     <?php include './componants/header.php'; ?>
+    <!-- !header-start -->
+    <?php include './componants/header.php'; ?>
     <!-- header-end -->
 
 
@@ -60,36 +60,39 @@
                         <div class="contact_form">
                             <form action="./mail.php" method="post" id="main_contact_form">
                                 <div class="contact_input_area">
-                                    <div id="success_fail_info"></div>
+                                    <div id="success_fail_info">
+                                        <div id="success" class="d-none alert alert-success">Your message was sent successfully! We will be in touch soon.</div>
+                                        <div id="fail" class="d-none alert alert-danger">Sorry, something went wrong. Please try again.</div>
+                                    </div>
                                     <div class="row">
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name" placeholder="First Name" required>
+                                                <input type="text" class="form-control mb-30" name="Name" id="Name" placeholder="First Name" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="name" id="name-2" placeholder="Last Name" required>
+                                                <input type="text" class="form-control mb-30" name="Last-Name" id="Last-Name" placeholder="Last Name" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail" required>
+                                                <input type="email" class="form-control mb-30" name="Email" id="Email" placeholder="E-mail" required>
                                             </div>
                                         </div>
                                         <!-- Form Group -->
                                         <div class="col-12 col-lg-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Your Number">
+                                                <input type="text" class="form-control mb-30" name="Number" id="Number" placeholder="Contact Number">
                                             </div>
                                         </div>
                                         <!-- Form Group -->
                                         <div class="col-12">
                                             <div class="form-group">
-                                                <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Your Message *" required></textarea>
+                                                <textarea name="Message" class="form-control mb-30" id="Message" cols="30" rows="6" placeholder="Your Message *" required></textarea>
                                             </div>
                                         </div>
                                         <!-- Button -->
@@ -103,7 +106,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 offset-lg-1 mb-50">
+                <div class="col-lg-3 offset-lg-1 mb-50 contact-info-container">
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
@@ -115,24 +118,23 @@
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
                             <h3>03 544 8529</h3>
-                            <p>Mon to Fri 9am to 5pm</p>
+                            <p>Mon to Fri business hours</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-email"></i></span>
                         <div class="media-body">
-                            <h3>berkett@mail</h3>
+                            <h3>office@berkettcontracting.co.nz</h3>
                             <p>Send us your query anytime!</p>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
     <!-- ================ contact section end ================= -->
 
-        <!-- footer-start -->
-        <?php include './componants/footer.php'; ?>
+    <!-- footer-start -->
+    <?php include './componants/footer.php'; ?>
     <!-- footer-end -->
 
     <!-- JS here -->
@@ -158,6 +160,7 @@
 
     <!-- Main js-->
     <script src="js/main.js"></script>
+    <script src="js/script.js"></script>
 
 </body>
 

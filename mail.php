@@ -4,12 +4,13 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         // Get the form fields and remove whitespace.
-        $name = strip_tags(trim($_POST["name"]));
-        $subject = strip_tags(trim($_POST["subject"]));
-        $number = strip_tags(trim($_POST["number"]));
+        $name = strip_tags(trim($_POST["Name"]));
+        $lastName = strip_tags(trim($_POST["Last-Name"]));
+        $subject = strip_tags(trim($_POST["Email"]));
+        $number = strip_tags(trim($_POST["Number"]));
         $name = str_replace(array("\r","\n"),array(" "," "),$name);
-        $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
-        $message = trim($_POST["message"]);
+        $email = filter_var(trim($_POST["Email"]), FILTER_SANITIZE_EMAIL);
+        $message = trim($_POST["Message"]);
 
         // Check that data was sent to the mailer.
         if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -27,11 +28,12 @@
         $subject = "New Message from $name";
 
         // Build the email content.
-        $email_content = "Name: $name\n";
+        $email_content = "Name: $name $lastName\n";
         $email_content .= "Email: $email\n\n";
         $email_content .= "Subject: $subject\n\n";
         $email_content .= "Number: $number\n\n";
         $email_content .= "Message:\n$message\n";
+
 
         // Build the email headers.
         $email_headers = "From: $name <$email>";
@@ -40,16 +42,16 @@
         if (mail($recipient, $subject, $email_content, $email_headers)) {
             // Set a 200 (okay) response code.
             http_response_code(200);
-            echo "Thanks! Your message has been sent, we will get back to you soon!";	
+            ?> <script>  document.getElementById('success')classList.remove('d-none');</script> <?php
         } else {
             // Set a 500 (internal server error) response code.
             http_response_code(500);
-            echo "Oops! Something went wrong. Please try again.";
+            ?> <script>  document.getElementById('fail').classList.remove('d-none');</script> <?php
         }
 
     } else {
         // Not a POST request, set a 403 (forbidden) response code.
         http_response_code(403);
-        echo "Oops! Something went wrong.";
+        ?> <script>  document.getElementById('fail').classList.remove('d-none');</script> <?php
     }
 ?>
