@@ -36,8 +36,8 @@
 /* Import Fonts & All CSS */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto:300,400,500,700,900&display=swap');
 
-@import 'bootstrap.min.css';
-@import 'owl.carousel.min.css';
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css');
 @import 'magnific-popup.css';
 @import 'font-awesome.min.css';
 @import 'themify-icons.css';
@@ -1189,7 +1189,7 @@ h3 {
 
 .slider-img{
 
-    filter: brightness(50%);
+    filter: brightness(85%);
     height: 100%;
     width: 100%;
     padding: 0;
@@ -3116,7 +3116,11 @@ h3 {
 }
 
 .details-bg-1 {
-    background-image: url(../img/banner/details-banner.jpg)
+    background-image: url(../img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.jpg)
+}
+
+.bg-blue{
+    background-color: #2a3d66;
 }
 
 /* :: Details Banner Area CSS */

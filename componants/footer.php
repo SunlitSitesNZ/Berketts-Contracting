@@ -8,7 +8,7 @@
         </div>
 
         <!-- Copy Right Area -->
-        <div class="container-fluid details-bg-1">
+        <div class="container-fluid bg-blue">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
                     <div class="copyright_part_text text-center p-2">

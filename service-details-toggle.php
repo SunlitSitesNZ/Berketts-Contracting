@@ -3,8 +3,6 @@ $service = $_GET['service'] ?? 'infrastructure';
 ?>
 
 
-
-
 <div class="service-details">
         <div class="container">
             <div class="row">
@@ -98,5 +96,7 @@ $service = $_GET['service'] ?? 'infrastructure';
             </div>
         </div>
     </div>
+</div>
+
 
     

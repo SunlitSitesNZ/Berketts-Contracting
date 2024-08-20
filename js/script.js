@@ -1,30 +1,53 @@
-document.getElementById('main_contact_form').addEventListener('submit', function(event) {
-    event.preventDefault();
+let domReady = (cb) => {
+    document.readyState === 'interactive' || document.readyState === 'complete'
+        ? cb()
+        : document.addEventListener('DOMContentLoaded', cb);
+};
 
-    var formData = new FormData(this);
+domReady(() => {
+    // Display body when DOM is loaded
+    document.body.style.visibility = 'visible';
+});
 
-    fetch('./mail.php', {
-        method: 'POST',
-        body: formData
-    })
-    .then(response => response.json())
-    .then(data => {
-        var successDiv = document.getElementById('success');
-        var failDiv = document.getElementById('fail');
-        if (data.status === 'success') {
-            successDiv.classList.remove('d-none');
-            failDiv.classList.add('d-none');
-            successDiv.textContent = data.message;
-        } else {
-            failDiv.classList.remove('d-none');
-            successDiv.classList.add('d-none');
-            failDiv.textContent = data.message;
-        }
-    })
-    .catch(error => {
-        console.error('Error:', error);
-        var failDiv = document.getElementById('fail');
-        failDiv.classList.remove('d-none');
-        failDiv.textContent = "An unexpected error occurred.";
+
+$(document).ready(function () {
+    $('#main_contact_form').on('submit', function (event) {
+        event.preventDefault(); // Prevent the default form submission\
+        // Disable the submit button
+        $('#submit-btn').prop('disabled', true); // Disable the submit button
+
+        var formData = $(this).serializeArray();
+
+        $.ajax({
+            url: './mail.php',
+            type: 'POST',
+            data: formData,
+            success: function (responseText, textStatus, jqXHR) {
+                var successDiv = $('#success');
+                var failDiv = $('#fail');
+
+                $('#main_contact_form')[0].reset();
+
+                // Check the HTTP status code
+                if (jqXHR.status === 200) {
+
+                    successDiv.removeClass('d-none');
+                    failDiv.addClass('d-none');
+                    // Clear the form inputs
+
+                } else {
+                    failDiv.removeClass('d-none');
+                    successDiv.addClass('d-none');
+
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                console.error('Error:', errorThrown);
+                var failDiv = $('#fail');
+                failDiv.removeClass('d-none');
+                failDiv.text("Please Try Again Later");
+            }
+        });
     });
 });
+

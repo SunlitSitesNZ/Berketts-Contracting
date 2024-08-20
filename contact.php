@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="./css/responsive.css">
 </head>
 
-<body>
+<body style="visibility: hidden;">
     <!-- Preloader -->
     <div id="preloader">
         <div class="loader"></div>
@@ -29,7 +29,6 @@
     <!-- header-end -->
 
 
-
     <!-- breadcrumb-start -->
     <section class="breadcrumb breadcrumb_bg banner-bg-1 bg-img overlay2 pt-pb-100">
         <div class="container">
@@ -38,7 +37,7 @@
                     <div class="breadcrumb_iner">
                         <div class="breadcrumb_iner_item">
                             <h2>Contact Us</h2>
-                            <p> <a href="index.html" class="text-muted">Home /</a> <span></span> Contact</p>
+                            <p> <a href="./index.php" class="text-muted">Home /</a> <span></span> Contact</p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +96,7 @@
                                         </div>
                                         <!-- Button -->
                                         <div class="col-12 text-center">
-                                            <button type="submit" class="boxed-btn">Send Message</button>
+                                            <button type="submit" id="submit-btn" class="boxed-btn">Send Message</button>
                                         </div>
                                     </div>
                                 </div>
@@ -111,7 +110,7 @@
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
                             <h3>Richmond Nelson</h3>
-                            <p>6b/750 Lower Queen Street</p>
+                            <p>6B/750 Lower Queen Street</p>
                         </div>
                     </div>
                     <div class="media contact-info">
@@ -138,29 +137,7 @@
     <!-- footer-end -->
 
     <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-
-    <!-- Main js-->
-    <script src="js/main.js"></script>
-    <script src="js/script.js"></script>
+    <?php include 'componants/scriptTags.php'; ?>
 
 </body>
 
