@@ -88,7 +88,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-image mb-50">
-                        <img src="img/berkett-imgs/about us/sunset digger.jpg" alt="">
+                        <img src="img/berkett-imgs/sunset digger.jpg" alt="">
                     </div>
                 </div>
 
