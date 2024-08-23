@@ -3,11 +3,20 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Get in touch with Berkett Contracting LTD for all your construction needs including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions in New Zealand. Contact us today for reliable and professional contracting services.">
+    <meta name="keywords" content="contact Berkett Contracting, construction services contact, infrastructure development contact, forestry roading contact, bulk aggregate supply contact, earthworks solutions contact, New Zealand contracting contact, reliable construction contact, professional contracting contact">
+    <meta name="author" content="Hannah Ross, Web Developer">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow">
+    <title>Contact Us - Berkett Contracting LTD</title>
 
-    <title>Contact Us</title>
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Contact Us - Berkett Contracting LTD">
+    <meta property="og:description" content="Get in touch with Berkett Contracting LTD for all your construction needs including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions in New Zealand. Contact us today for reliable and professional contracting services.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.berkettcontracting.co.nz/contact">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/contact.png">
+
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
@@ -48,7 +57,7 @@
 
     <!-- ================ contact section start ================= -->
     <section class="contact-section">
-        <div class="container">
+        <div class="container mb-5">
             <div class="row">
                 <div class="col-12">
                     <h2 class="contact-title">Get in Touch</h2>
@@ -129,12 +138,14 @@
                     </div>
                 </div>
             </div>
+        </div>
+            <!-- footer-start -->
+    <?php include './componants/footer.php'; ?>
+    <!-- footer-end -->
     </section>
     <!-- ================ contact section end ================= -->
 
-    <!-- footer-start -->
-    <?php include './componants/footer.php'; ?>
-    <!-- footer-end -->
+
 
     <!-- JS here -->
     <?php include 'componants/scriptTags.php'; ?>

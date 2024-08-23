@@ -9,7 +9,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="header-contact text-right">
-                                <a href="https://google.com/maps/place/Berkett+Contracting/@-41.3078861,173.1532984,17z/data=!4m15!1m8!3m7!1s0x6d3b91455f972051:0x2b516e43d4ebd170!2s6B%2F750+Lower+Queen+Street,+Richmond+7020!3b1!8m2!3d-41.3077733!4d173.1529551!16s%2Fg%2F11rsbmtnxv!3m5!1s0x6d3b968f2e603a8f:0x813d2388c6179caf!8m2!3d-41.3090738!4d173.1555222!16s%2Fg%2F1tcvv0yy?entry=ttu"><i class="fa fa-location-arrow"></i> 6b/750 Lower Queen Street Richmond,
+                                <a href="https://google.com/maps/place/Berkett+Contracting/@-41.3078861,173.1532984,17z/data=!4m15!1m8!3m7!1s0x6d3b91455f972051:0x2b516e43d4ebd170!2s6B%2F750+Lower+Queen+Street,+Richmond+7020!3b1!8m2!3d-41.3077733!4d173.1529551!16s%2Fg%2F11rsbmtnxv!3m5!1s0x6d3b968f2e603a8f:0x813d2388c6179caf!8m2!3d-41.3090738!4d173.1555222!16s%2Fg%2F1tcvv0yy?entry=ttu"><i class="fa fa-location-arrow"></i> 6B/750 Lower Queen Street Richmond,
                                     Nelson</a>
                                 <a href="./contact.php"><i class="fa fa-phone"></i> 03 544 8529</a>
                             </div>

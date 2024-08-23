@@ -3,14 +3,22 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Berkett Contracting LTD specializes in comprehensive construction services including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions. Contact us today for reliable and professional contracting needs in New Zealand.">
+    <meta name="keywords" content="construction services, infrastructure development, forestry roading, bulk aggregate supply, earthworks solutions, New Zealand contracting, reliable construction, professional contracting, civil construction, quarrying, earthmoving, mobile crushing, screening equipment">
+    <meta name="author" content="Hannah Ross, Web Developer">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Berkett Contracting LTD</title>
+    <meta name="robots" content="index, follow">
+    <title>Berkett Contracting LTD | Contracting in Nelson, New Zealand </title>
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Comprehensive Contracting Services in Nelson, New Zealand | Berkett Contracting LTD">
+    <meta property="og:description" content="Berkett Contracting LTD specializes in comprehensive construction services including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions. Contact us today for reliable and professional contracting needs in New Zealand.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.berkettcontracting.co.nz">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.png">
+
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/style.css">

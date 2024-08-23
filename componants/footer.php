@@ -1,6 +1,6 @@
-<footer>
-        <div style="height: 20em;">
-            <iframe
+<footer  class="site-footer">
+        <div style=" height: 20em;">
+            <iframe loading='lazy'
                 style=" height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1498.5297387356418!2d173.1549448879215!3d-41.30756969633432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3b968f2e603a8f%3A0x813d2388c6179caf!2sBerkett%20Contracting!5e0!3m2!1sen!2snz!4v1722404272370!5m2!1sen!2snz"
                 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"

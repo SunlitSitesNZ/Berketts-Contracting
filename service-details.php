@@ -3,11 +3,19 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Discover detailed information about the comprehensive construction services offered by Berkett Contracting LTD, including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions.">
+    <meta name="keywords" content="construction service details, infrastructure development details, forestry roading details, bulk aggregate supply details, earthworks solutions details, New Zealand contracting services, reliable construction details, professional contracting details">
+    <meta name="author" content="Hannah Ross, Web Developer">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow">
+    <title>Service Details - Berkett Contracting LTD</title>
 
-    <title>Services - Berkett Contracting</title>
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Service Details - Berkett Contracting LTD">
+    <meta property="og:description" content="Discover services offered by Berkett Contracting LTD, including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.berkettcontracting.co.nz/service-details">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/service-details.png">
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
@@ -32,7 +40,7 @@
 
     <!-- breadcrumb-start -->
     <section class="breadcrumb breadcrumb_bg banner-bg-1 overlay2 pt-pb-100">
-        <div class="container">
+        <div class="container ">
             <div class="row">
                 <div class="col-lg-7 offset-lg-1">
                     <div class="breadcrumb_iner">
@@ -48,9 +56,11 @@
     <!-- breadcrumb-end -->
 
     <!-- service-details-start -->
+     <section class="mb-5">
      <?php
         include './service-details-toggle.php';
      ?>
+     </section>
 
     <!-- service-details-end -->
 
