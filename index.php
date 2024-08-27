@@ -44,7 +44,7 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img src="./img/berkett-imgs/corasal/Tennis Court - Wells.jpg" alt="tennis court"
+                <div class="slider-img position-absolute"><img  src="./img/berkett-imgs/corasal/Tennis Court - Wells.jpg" alt="tennis court"
                 style="max-width: 1600px; height: 535px;">
                 </div>
                 <div class="container ">
@@ -65,7 +65,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img src="./img/berkett-imgs/corasal/digger.jpg" alt="blue digger"
+                <div class="slider-img position-absolute"><img loading="lazy" src="./img/berkett-imgs/corasal/digger.jpg" alt="blue digger"
                 style="max-width: 1600px; height: 535px;"></div>
                 <div class="container ">
                     <div class="row">
@@ -85,7 +85,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img src="./img/berkett-imgs/corasal/trucks.jpg" alt="two trucks" style="max-width: 1600px; height: 535px;"></div>
+                <div class="slider-img position-absolute"><img loading="lazy" src="./img/berkett-imgs/corasal/trucks.jpg" alt="two trucks" style="max-width: 1600px; height: 535px;"></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -115,7 +115,7 @@
                     <div class="single-service ">
 
                         <div class="service-thumb">
-                            <img src="./img/berkett-imgs/services/quarry-truck.jpg" alt="quarry truck" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/quarry-truck.jpg" alt="quarry truck" style="max-width: 540px; height: 405px;">
                         </div>
                         <div class="">
                             <h3>Gravel & Quarry</h3>
@@ -130,7 +130,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb">
-                            <img src="./img/berkett-imgs/services/construction-digger.jpg" alt="construction digger" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/construction-digger.jpg" alt="construction digger" style="max-width: 540px; height: 405px;">
                         </div>
                         <div class="">
                             <h3>Infrastructure</h3>
@@ -149,7 +149,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb ">
-                            <img src="./img/berkett-imgs/services/digger-on-clay.jpg" alt="digger on clay" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/digger-on-clay.jpg" alt="digger on clay" style="max-width: 540px; height: 405px;">
                         </div>
                         <div class="">
                             <h3>Earthworks</h3>
@@ -164,7 +164,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb">
-                            <img src="./img/berkett-imgs/services/forestry-digger.jpg" alt="forestry road" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/forestry-digger.jpg" alt="forestry road" style="max-width: 540px; height: 405px;">
                         </div>
                         <div class="">
                             <h3>Forestry</h3>
@@ -207,7 +207,7 @@
                 <!-- About Thumb -->
                 <div class="col-lg-6">
                     <div class="about-thumb">
-                        <img src="./img/berkett-imgs/sunset digger.jpg" alt="sunset digger" style="max-width: 600px; height: 200px;">
+                        <img loading="lazy" src="./img/berkett-imgs/sunset digger.jpg" alt="sunset digger" style="max-width: 600px; height: 200px;">
                     </div>
                 </div>
             </div>

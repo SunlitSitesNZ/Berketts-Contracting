@@ -75,7 +75,7 @@
 
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-thumb">
-                        <img class="img-fluid" src="img/berkett-imgs/about us/digger-lifts-digger.jpg" alt="digger-img" style="max-width: 635px; height: 545px;">
+                        <img loading="lazy" class="img-fluid" src="img/berkett-imgs/about us/digger-lifts-digger.jpg" alt="digger-img" style="max-width: 635px; height: 545px;">
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-image mb-50">
-                        <img src="img/berkett-imgs/sunset digger.jpg" alt="sunset-digger" style="max-width: 635px; height: 212px;">
+                        <img loading="lazy" src="img/berkett-imgs/sunset digger.jpg" alt="sunset-digger" style="max-width: 635px; height: 212px;">
                     </div>
                 </div>
 
