@@ -33,7 +33,7 @@ $service = $_GET['service'] ?? 'infrastructure';
                             <div class="tab-pane fade <?php echo $service == 'earthworks' ? 'show  active' : ''; ?>" id="earthworks" role="tabpanel" aria-labelledby="earthworks-tab">
                                 <div class="details-wrap">
                                     <div class="details-thumb">
-                                        <img src="./img/berkett-imgs/services-expanded/digger-hill.jpg" alt="">
+                                        <img src="./img/berkett-imgs/services-expanded/digger-hill.jpg" alt="digger on hill" style="max-width: 730px; height: 337px;">
                                     </div>
                                     <div class="details-info">
                                         <h3>Specialist Earthworks</h3>
@@ -49,7 +49,7 @@ $service = $_GET['service'] ?? 'infrastructure';
                             <div class="tab-pane fade <?php echo $service == 'infrastructure' ? 'show  active' : ''; ?>" id="Infrastructure" role="tabpanel" aria-labelledby="infrastructure-tab">
                                 <div class="details-wrap">
                                     <div class="details-thumb">
-                                        <img src=" ./img/berkett-imgs/services-expanded/little-digger-blue.jpg" alt="">
+                                        <img src=" ./img/berkett-imgs/services-expanded/little-digger-blue.jpg" alt="blue digger" style="max-width: 730px; height: 337px;">
                                     </div>
                                     <div class="details-info">
                                         <h3>Infrastructure</h3>
@@ -64,7 +64,7 @@ $service = $_GET['service'] ?? 'infrastructure';
                             <div class="tab-pane fade <?php echo $service == 'gravel' ? 'show  active' : ''; ?>" id="gravel" role="tabpanel" aria-labelledby="gravel-tab">
                                 <div class="details-wrap">
                                     <div class="details-thumb">
-                                        <img src="./img/berkett-imgs/services-expanded/gravel-roadjpg.jpg" alt="">
+                                        <img src="./img/berkett-imgs/services-expanded/gravel-roadjpg.jpg" alt="road side" style="max-width: 730px; height: 337px;">
                                     </div>
                                     <div class="details-info">
                                         <h3>Gravel & Quarry</h3>
@@ -81,7 +81,7 @@ $service = $_GET['service'] ?? 'infrastructure';
                             <div class="tab-pane fade  <?php echo $service == 'forestry' ? 'show  active' : ''; ?>" id="forestry" role="tabpanel" aria-labelledby="forestry-tab">
                                 <div class="details-wrap">
                                     <div class="details-thumb">
-                                        <img src="./img/berkett-imgs/services-expanded/Skid 3 bench.jpg" alt="">
+                                        <img src="./img/berkett-imgs/services-expanded/Skid 3 bench.jpg" alt="forestry skid site" style="max-width: 730px; height: 337px;">
                                     </div>
                                     <div class="details-info">
                                         <h3>Forestry</h3>
