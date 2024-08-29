@@ -17,7 +17,11 @@
     <meta property="og:description" content="Berkett Contracting LTD specializes in comprehensive construction services including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions. Contact us today for reliable and professional contracting needs in New Zealand.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.berkettcontracting.co.nz">
-    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.png">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.webp">
+
+    <meta http-equiv="Cache-control" content="public">
+
+    <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
 
 
     <!-- CSS here -->
@@ -44,8 +48,8 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img  src="./img/berkett-imgs/corasal/Tennis Court - Wells.jpg" alt="tennis court"
-                style="max-width: 1600px; height: 535px;">
+                <div class="slider-img position-absolute "><img  class="lozad" src="./img/berkett-imgs/corasal/Tennis Court - Wells.webp" alt="tennis court"
+                style="max-width: 1600px; max-height: 535px;">
                 </div>
                 <div class="container ">
                     <div class="row">
@@ -65,8 +69,8 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img loading="lazy" src="./img/berkett-imgs/corasal/digger.jpg" alt="blue digger"
-                style="max-width: 1600px; height: 535px;"></div>
+                <div class="slider-img position-absolute"><img class="lozad" src="./img/berkett-imgs/corasal/digger.webp" alt="blue digger"
+                style="max-width: 1600px; max-height: 535px;"></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -85,7 +89,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img loading="lazy" src="./img/berkett-imgs/corasal/trucks.jpg" alt="two trucks" style="max-width: 1600px; height: 535px;"></div>
+                <div class="slider-img position-absolute"><img class="lozad" src="./img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style="max-width: 1600px; max-height: 535px;"></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -115,7 +119,7 @@
                     <div class="single-service ">
 
                         <div class="service-thumb">
-                            <img loading="lazy" src="./img/berkett-imgs/services/quarry-truck.jpg" alt="quarry truck" style="max-width: 540px; height: 405px;">
+                            <img class="img-fluid" loading="lazy" src="./img/berkett-imgs/services/quarry-truck.webp" alt="quarry truck" style="max-width: 540px; max-max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Gravel & Quarry</h3>
@@ -130,7 +134,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb">
-                            <img loading="lazy" src="./img/berkett-imgs/services/construction-digger.jpg" alt="construction digger" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/construction-digger.webp" alt="construction digger" style="max-width: 540px; max-max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Infrastructure</h3>
@@ -149,7 +153,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb ">
-                            <img loading="lazy" src="./img/berkett-imgs/services/digger-on-clay.jpg" alt="digger on clay" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Earthworks</h3>
@@ -164,7 +168,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb">
-                            <img loading="lazy" src="./img/berkett-imgs/services/forestry-digger.jpg" alt="forestry road" style="max-width: 540px; height: 405px;">
+                            <img loading="lazy" src="./img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Forestry</h3>
@@ -193,7 +197,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="section-title">
-                        <span>How Berketts Dose it</span>
+                        <span>How Berkett's Dose it</span>
                         <h3>By Covering All Your Contracting Needs</h3>
                         <p class="para-text">
                         Berkett Contracting is a local family-owned and operated earthmoving business that specialises in small to medium earthworks, civil construction, and quarrying.
@@ -207,7 +211,7 @@
                 <!-- About Thumb -->
                 <div class="col-lg-6">
                     <div class="about-thumb">
-                        <img loading="lazy" src="./img/berkett-imgs/sunset digger.jpg" alt="sunset digger" style="max-width: 600px; height: 200px;">
+                        <img loading="lazy" src="./img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
                     </div>
                 </div>
             </div>
@@ -218,7 +222,7 @@
 
     <!-- !cta-area-start -->
     <div class="cta-area bg-img bg-overlay-2"
-        style="background-image: url(./img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.jpg)">
+        style="background-image: url(./img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
         <div class="container">
             <div class="col-xl-6 col-lg-7">
                 <!-- Call to action Content -->

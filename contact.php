@@ -8,6 +8,9 @@
     <meta name="author" content="Hannah Ross, Web Developer">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
+
+    <meta http-equiv="Cache-control" content="public">
+    
     <title>Contact Us - Berkett Contracting LTD</title>
 
     <!-- Open Graph Meta Tags -->
@@ -15,11 +18,11 @@
     <meta property="og:description" content="Get in touch with Berkett Contracting LTD for all your construction needs including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions in New Zealand. Contact us today for reliable and professional contracting services.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.berkettcontracting.co.nz/contact">
-    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/contact.png">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.webp">
 
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.webp">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="./css/style.css">

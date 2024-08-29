@@ -8,11 +8,14 @@
     <meta name="author" content="Hannah Ross, Web Developer">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.webp">
+
+    <meta http-equiv="Cache-control" content="public">
 
     <title>About - Berkett Contracting</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.webp">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/style.css">
@@ -20,7 +23,7 @@
 </head>
 
 
-<body style="visibility: hidden;">
+<body >
     <!-- Preloader -->
     <div id="preloader">
         <div class="loader"></div>
@@ -56,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-5 col-md-12 col-lg-6">
                     <div class="section-title">
-                        <span>How Berketts Dose It</span>
+                        <span>How Berkett's Dose It</span>
                         <h3>Delivering local expertise</h3>
                         <p class="para-text">
                         Highly skilled technical and operational staff enable Berkett Contracting to punch above its weight in delivering value and quality to its customers. </p>
@@ -75,7 +78,7 @@
 
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-thumb">
-                        <img loading="lazy" class="img-fluid" src="img/berkett-imgs/about us/digger-lifts-digger.jpg" alt="digger-img" style="max-width: 635px; height: 545px;">
+                        <img loading="lazy" class="img-fluid" src="img/berkett-imgs/about us/digger-lifts-digger.webp" alt="digger-img" style="max-width: 635px; max-height: 545px;">
                     </div>
                 </div>
             </div>
@@ -89,7 +92,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-md-12 col-lg-6">
                     <div class="about-image mb-50">
-                        <img loading="lazy" src="img/berkett-imgs/sunset digger.jpg" alt="sunset-digger" style="max-width: 635px; height: 212px;">
+                        <img loading="lazy" src="img/berkett-imgs/sunset digger.webp" alt="sunset-digger" style="max-width: 635px; max-height: 212px;">
                     </div>
                 </div>
 
