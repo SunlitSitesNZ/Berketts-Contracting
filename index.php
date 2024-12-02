@@ -48,8 +48,8 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute "><img  class="lozad" src="./img/berkett-imgs/corasal/Tennis Court - Wells.webp" alt="tennis court"
-                style="max-width: 1600px; max-height: 535px;">
+                <div class="slider-img position-absolute " loading="lazy" width="1900" height="503"><img  class="lozad" src="./img/berkett-imgs/corasal/Tennis Court - Wells.webp" alt="tennis court"
+                style="">
                 </div>
                 <div class="container ">
                     <div class="row">
@@ -69,8 +69,8 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img class="lozad" src="./img/berkett-imgs/corasal/digger.webp" alt="blue digger"
-                style="max-width: 1600px; max-height: 535px;"></div>
+                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="./img/berkett-imgs/corasal/digger.webp" alt="blue digger"
+                style=""></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -89,7 +89,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute"><img class="lozad" src="./img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style="max-width: 1600px; max-height: 535px;"></div>
+                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="./img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style=""></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -118,7 +118,7 @@
                 <div class="col-xl-6 col-md-6">
                     <div class="single-service ">
 
-                        <div class="service-thumb">
+                        <div class="service-thumb" loading="lazy" width="540" height="406">
                             <img class="img-fluid" loading="lazy" src="./img/berkett-imgs/services/quarry-truck.webp" alt="quarry truck" style="max-width: 540px; max-max-height: 405px;">
                         </div>
                         <div class="">
@@ -133,7 +133,7 @@
                 <div class="col-xl-6 col-md-6">
                     <div class="single-service">
 
-                        <div class="service-thumb">
+                        <div class="service-thumb" loading="lazy" width="540" height="406">
                             <img loading="lazy" src="./img/berkett-imgs/services/construction-digger.webp" alt="construction digger" style="max-width: 540px; max-max-height: 405px;">
                         </div>
                         <div class="">
@@ -152,7 +152,7 @@
                 <div class="col-xl-6 col-md-6">
                     <div class="single-service">
 
-                        <div class="service-thumb ">
+                        <div class="service-thumb " loading="lazy" width="540" height="406">
                             <img loading="lazy" src="./img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
@@ -165,9 +165,9 @@
 
                 <!-- Single Service Area -->
                 <div class="col-xl-6 col-md-6">
-                    <div class="single-service">
+                    <div class="single-service" >
 
-                        <div class="service-thumb">
+                        <div class="service-thumb" loading="lazy" width="540" height="406">
                             <img loading="lazy" src="./img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
@@ -210,7 +210,7 @@
 
                 <!-- About Thumb -->
                 <div class="col-lg-6">
-                    <div class="about-thumb">
+                    <div class="about-thumb" loading="lazy" width="540" height="181">
                         <img loading="lazy" src="./img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
                     </div>
                 </div>
@@ -221,7 +221,7 @@
     <!-- About end -->
 
     <!-- !cta-area-start -->
-    <div class="cta-area bg-img bg-overlay-2"
+    <div class="cta-area bg-img bg-overlay-2" loading="lazy" width="1408" height="672"
         style="background-image: url(./img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
         <div class="container">
             <div class="col-xl-6 col-lg-7">

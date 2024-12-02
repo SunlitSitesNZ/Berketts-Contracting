@@ -13,7 +13,7 @@
                 <div class="col-lg-12">
                     <div class="copyright_part_text text-center p-2">
                         <!-- <img src="./img/berkett-imgs/logo.png" height="50" class="footer-img p-3"> -->
-                        <p class="footer-text m-0">Made with <span style="font-size: 20px; color:black" >🍵</span>  by <a href="www.devhannah.com" class="footer-text">Hannah Ross</a></p>
+                        <p class="footer-text m-0">Made with <span style="font-size: 20px; color:black" >☀️</span>  by <a href="" class="footer-text">Sunlit Sites</a></p>
                         <p class="footer-text m-0">© Berkett Contracting LTD Copyright All rights reserved</p>
 
                     </div>
