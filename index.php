@@ -48,7 +48,7 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute " loading="lazy" width="1900" height="503"><img  class="lozad" src="./img/berkett-imgs/corasal/Tennis Court - Wells.webp" alt="tennis court"
+                <div class="slider-img position-absolute " loading="lazy" width="1900" height="503"><img  class="lozad" src="https://i.imgur.com/9mw7eBi.jpeg" alt="tennis court"
                 style="">
                 </div>
                 <div class="container ">
@@ -69,8 +69,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="./img/berkett-imgs/corasal/digger.webp" alt="blue digger"
-                style=""></div>
+                <div class="slider-img position-absolute" ><img loading="lazy" width="1900" height="503" class="lozad" src="https://i.imgur.com/41P0cWW.jpeg" alt="blue digger"></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
