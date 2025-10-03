@@ -3,11 +3,6 @@ $service = $_GET['service'] ?? 'infrastructure';
 ?>
 
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 95f4483cb45d79ceb5594b502a81965eaf718c65
 <div class="service-details">
         <div class="container">
             <div class="row">

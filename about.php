@@ -3,23 +3,6 @@
 
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
-    <meta name="description" content="">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>About - Berkett Contracting LTD</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
-
-<body>
-=======
     <meta name="description" content="Berkett Contracting's values">
     <meta name="keywords" content="construction services, infrastructure development, forestry roading, bulk aggregate supply, earthworks solutions, New Zealand contracting, reliable construction, professional contracting, civil construction, quarrying, earthmoving, mobile crushing, screening equipment, company history, construction expertise, trusted contractor, industry leader, construction projects, New Zealand, construction industry, construction company, construction projects, construction excellence, construction innovation, sustainable construction, community involvement, construction safety, quality assurance, client satisfaction, construction technology, construction methodology, construction leadership, construction ethics, construction projects, construction quality, construction innovation, construction sustainability, construction reliability, construction team, construction values, construction reputation, construction integrity, construction partnerships, construction excellence, construction expertise, construction legacy, construction vision, construction commitment, construction professionalism, construction projects, construction success stories, construction culture, construction community engagement, construction awards, construction milestones, construction leadership, construction heritage, construction standards, construction safety, construction technology, construction efficiency, construction collaboration, construction quality control, construction management, construction engineering, construction planning, construction execution, construction innovation, construction sustainability, construction reliability, construction teamwork, construction transparency, construction growth, construction diversity, construction training, construction equipment, construction projects, construction quality assurance, construction environmental stewardship, construction project management, construction career opportunities, construction industry involvement, construction safety measures, construction project delivery, construction client relationships, construction sustainability initiatives, construction project portfolio, construction innovation, construction safety standards, construction project management, construction environmental responsibility, construction project execution, construction quality control, construction project showcase, construction safety protocols, construction project highlights, construction environmental impact, construction project delivery, construction corporate culture, construction project success, construction environmental compliance, construction project management, construction project history, construction environmental stewardship, construction project innovation, construction quality assurance, construction project quality, construction environmental sustainability, construction project quality, construction project delivery, construction environmental responsibility, construction quality control, construction project execution, construction quality assurance, construction project quality, construction environmental compliance, construction project management, construction quality standards, construction project quality, construction environmental stewardship, construction project quality, construction project quality control, construction environmental responsibility, construction project quality, construction project quality assurance, construction project quality, construction environmental responsibility, construction project quality control, construction project quality assurance, construction environmental sustainability, construction project quality, construction project quality, construction responsibility, construction project quality assurance, construction project quality, construction environmental stewardship, construction project quality, construction project quality control, construction responsibility, construction project quality assurance, construction project quality, construction environmental responsibility, construction project quality, construction project quality assurance, construction project quality, construction responsibility, construction project quality, construction environmental stewardship, construction project quality assurance, construction project quality, construction responsibility, construction project quality, construction project quality assurance, construction environmental responsibility, construction project quality, construction project quality, construction responsibility, construction project quality assurance, construction project quality, construction responsibility, construction project quality, construction project">
     <meta name="author" content="Hannah Ross, Web Developer">
@@ -41,7 +24,6 @@
 
 
 <body >
->>>>>>> 95f4483cb45d79ceb5594b502a81965eaf718c65
     <!-- Preloader -->
     <div id="preloader">
         <div class="loader"></div>

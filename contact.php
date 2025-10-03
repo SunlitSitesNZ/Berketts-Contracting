@@ -3,22 +3,6 @@
 
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
-    <meta name="description" content="">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>Contact Us</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/style.css">
-</head>
-
-<body>
-=======
     <meta name="description" content="Get in touch with Berkett Contracting LTD for all your construction needs including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions in New Zealand. Contact us today for reliable and professional contracting services.">
     <meta name="keywords" content="contact Berkett Contracting, construction services contact, infrastructure development contact, forestry roading contact, bulk aggregate supply contact, earthworks solutions contact, New Zealand contracting contact, reliable construction contact, professional contracting contact">
     <meta name="author" content="Hannah Ross, Web Developer">
@@ -46,7 +30,6 @@
 </head>
 
 <body style="visibility: hidden;">
->>>>>>> 95f4483cb45d79ceb5594b502a81965eaf718c65
     <!-- Preloader -->
     <div id="preloader">
         <div class="loader"></div>
