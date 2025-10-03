@@ -1,0 +1,43 @@
+@media screen and (max-width: 1214px) {
+
+    .img-digger {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .contact-info-container {
+        visibility: collapse !important;
+        display: none;
+    }
+    .service-details {
+        padding-bottom: 0;
+    }
+
+    .img-digger {
+        display: none;
+    }
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .boxed-btn2 {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 767px) {
+    .section-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .section-title h3 {
+        font-size: 32px;
+        line-height: 48px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .section-title h3 br {
+        display: none;
+    }
+}
