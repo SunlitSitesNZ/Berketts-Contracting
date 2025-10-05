@@ -29,6 +29,7 @@
     <link rel="preconnect" href="https://maps.googleapis.com">
    <link rel="dns-prefetch" href="https://maps.googleapis.com">
     
+   
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="./css/responsive.css">
 </head>

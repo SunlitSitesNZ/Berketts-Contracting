@@ -18,6 +18,7 @@
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
     <!-- CSS here -->
+     
     <link rel="stylesheet" href="css/style.css">
 
 </head>
@@ -66,6 +67,19 @@
     <!-- JS here -->
     <?php include './componants/scriptTags.php'; ?>
    
+<!-- Show correct tab on page load -->
+<script>
+$(document).ready(function() {
+    // Get the service parameter from URL
+    var urlParams = new URLSearchParams(window.location.search);
+    var service = urlParams.get('service');
+    
+    // If we have a service parameter, show that tab
+    if (service) {
+        $('#' + service + '-tab').tab('show');
+    }
+});
+</script>
 
 </body>
 

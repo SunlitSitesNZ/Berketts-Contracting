@@ -33,12 +33,8 @@
     <link rel="stylesheet" href="./css/responsive.css">
 </head>
 
-<body style="visibility: hidden;">
-    <!-- Preloader -->
-    <div id="preloader">
-        <div class="loader"></div>
-    </div>
-    <!-- /Preloader -->
+<body >
+
 
     <!-- !header-start -->
     <?php include './componants/header.php'; ?>
