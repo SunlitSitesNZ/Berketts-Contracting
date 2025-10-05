@@ -22,7 +22,7 @@
     <meta property="og:site_name" content="Berkett Contracting LTD">
     
     <meta http-equiv="Cache-control" content="public">
-    <link rel="shortcut icon" type="image/x-icon" href=".img/berkett-imgs/digger.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
     
     <!-- Preconnect -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
@@ -160,7 +160,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb " loading="lazy" width="540" height="406">
-                            <img loading="lazy" src=".img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
+                            <img loading="lazy" src="img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Earthworks</h3>
@@ -175,7 +175,7 @@
                     <div class="single-service" >
 
                         <div class="service-thumb" loading="lazy" width="540" height="406">
-                            <img loading="lazy" src=".img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
+                            <img loading="lazy" src="img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Forestry</h3>
@@ -218,7 +218,7 @@
                 <!-- About Thumb -->
                 <div class="col-lg-6">
                     <div class="about-thumb" loading="lazy" width="540" height="181">
-                        <img loading="lazy" src=".img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
+                        <img loading="lazy" src="img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
 
     <!-- !cta-area-start -->
     <div class="cta-area bg-img bg-overlay-2" loading="lazy" width="1408" height="672"
-        style="background-image: url(.img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
+        style="background-image: url(img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
         <div class="container">
             <div class="col-xl-6 col-lg-7">
                 <!-- Call to action Content -->
