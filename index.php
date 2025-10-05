@@ -18,11 +18,11 @@
     <meta property="og:url" content="https://www.berkettcontracting.co.nz/index.php">
     <meta property="og:title" content="Nelson Earthworks & Construction Contractors | Berkett Contracting">
     <meta property="og:description" content="Earthworks & civil construction in Nelson. Specialising in infrastructure, forestry roading, quarrying & bulk aggregate supply. 40+ years experience.">
-    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/corasal/digger.webp">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nzimg/berkett-imgs/corasal/digger.webp">
     <meta property="og:site_name" content="Berkett Contracting LTD">
     
     <meta http-equiv="Cache-control" content="public">
-    <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
+    <link rel="shortcut icon" type="image/x-icon" href=".img/berkett-imgs/digger.png">
     
     <!-- Preconnect -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
@@ -55,7 +55,7 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute "  width="1900" height="503"><img src="/img/berkett-imgs/corasal/Tennis.webp" alt="tennis court"
+                <div class="slider-img position-absolute "  width="1900" height="503"><img src="img/berkett-imgs/corasal/Tennis.webp" alt="tennis court"
                 style="">
                 </div>
                 <div class="container ">
@@ -76,7 +76,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="/img/berkett-imgs/corasal/digger.webp" alt="blue digger"
+                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="img/berkett-imgs/corasal/digger.webp" alt="blue digger"
                 style=""></div>
                 <div class="container ">
                     <div class="row">
@@ -96,7 +96,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img  src="/img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style=""></div>
+                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img  src="img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style=""></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -160,7 +160,7 @@
                     <div class="single-service">
 
                         <div class="service-thumb " loading="lazy" width="540" height="406">
-                            <img loading="lazy" src="./img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
+                            <img loading="lazy" src=".img/berkett-imgs/services/digger-on-clay.webp" alt="digger on clay" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Earthworks</h3>
@@ -175,7 +175,7 @@
                     <div class="single-service" >
 
                         <div class="service-thumb" loading="lazy" width="540" height="406">
-                            <img loading="lazy" src="./img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
+                            <img loading="lazy" src=".img/berkett-imgs/services/forestry-digger.webp" alt="forestry road" style="max-width: 540px; max-height: 405px;">
                         </div>
                         <div class="">
                             <h3>Forestry</h3>
@@ -218,7 +218,7 @@
                 <!-- About Thumb -->
                 <div class="col-lg-6">
                     <div class="about-thumb" loading="lazy" width="540" height="181">
-                        <img loading="lazy" src="./img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
+                        <img loading="lazy" src=".img/berkett-imgs/sunset digger.webp" alt="sunset digger" style="max-width: 600px; max-height: 200px;">
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
 
     <!-- !cta-area-start -->
     <div class="cta-area bg-img bg-overlay-2" loading="lazy" width="1408" height="672"
-        style="background-image: url(./img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
+        style="background-image: url(.img/berkett-imgs/landscape-lake-pukaki-pukaki-new-zealand-surrounded-with-snowy-mountains.webp)">
         <div class="container">
             <div class="col-xl-6 col-lg-7">
                 <!-- Call to action Content -->
@@ -265,7 +265,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="member-pic">
-                            <img src="./img/team/2.jpg" alt="">
+                            <img src=".img/team/2.jpg" alt="">
                         </div>
                         
                         <div class="member-info">
@@ -281,7 +281,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="member-pic">
-                            <img src="./img/team/3.jpg" alt="">
+                            <img src=".img/team/3.jpg" alt="">
                         </div>
                         
                         <div class="member-info">
@@ -297,7 +297,7 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="single-team-area text-center mb-30 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="member-pic">
-                            <img src="./img/team/4.jpg" alt="">
+                            <img src=".img/team/4.jpg" alt="">
                         </div>
                         
                         <div class="member-info">

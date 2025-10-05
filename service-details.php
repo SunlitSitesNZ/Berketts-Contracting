@@ -10,7 +10,7 @@
     <title>Services - Berkett Contracting</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/berkett-imgs/digger.png">
 
     <!-- Add these to ALL pages -->
 <link rel="preconnect" href="https://cdnjs.cloudflare.com">

@@ -25,7 +25,7 @@
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo-img">
                                 <a href="./index.php">
-                                    <img src="./img/berkett-imgs/logo.png" alt="logo">
+                                    <img src="img/berkett-imgs/logo.png" alt="logo">
                                 </a>
                             </div>
                         </div>
