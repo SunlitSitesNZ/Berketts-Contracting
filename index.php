@@ -3,35 +3,42 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Berkett Contracting LTD specializes in comprehensive construction services including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions. Contact us today for reliable and professional contracting needs in New Zealand.">
-    <meta name="keywords" content="construction services, infrastructure development, forestry roading, bulk aggregate supply, earthworks solutions, New Zealand contracting, reliable construction, professional contracting, civil construction, quarrying, earthmoving, mobile crushing, screening equipment">
-    <meta name="author" content="Hannah Ross, Web Developer">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    
+    <title>Nelson Earthworks & Construction Contractors | Berkett Contracting</title>
+    <meta name="description" content="Family-owned earthworks & civil construction in Nelson. Specialising in infrastructure, forestry roading, quarrying & bulk aggregate supply. 40+ years experience. Call 03 544 8529">
+    <meta name="keywords" content="earthworks Nelson, construction contractor Nelson, civil construction, quarrying, forestry roading, aggregate supply, infrastructure development, earthmoving">
+    <meta name="author" content="Berkett Contracting LTD">
     <meta name="robots" content="index, follow">
-    <title>Berkett Contracting LTD | Contracting in Nelson, New Zealand </title>
-
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Comprehensive Contracting Services in Nelson, New Zealand | Berkett Contracting LTD">
-    <meta property="og:description" content="Berkett Contracting LTD specializes in comprehensive construction services including infrastructure development, forestry roading, bulk aggregate supply, and earthworks solutions. Contact us today for reliable and professional contracting needs in New Zealand.">
+    <link rel="canonical" href="https://www.berkettcontracting.co.nz/index.php">
+    
+    <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.berkettcontracting.co.nz">
-    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/digger.webp">
-
+    <meta property="og:url" content="https://www.berkettcontracting.co.nz/index.php">
+    <meta property="og:title" content="Nelson Earthworks & Construction Contractors | Berkett Contracting">
+    <meta property="og:description" content="Earthworks & civil construction in Nelson. Specialising in infrastructure, forestry roading, quarrying & bulk aggregate supply. 40+ years experience.">
+    <meta property="og:image" content="https://www.berkettcontracting.co.nz/img/berkett-imgs/corasal/digger.webp">
+    <meta property="og:site_name" content="Berkett Contracting LTD">
+    
     <meta http-equiv="Cache-control" content="public">
-
     <link rel="shortcut icon" type="image/x-icon" href="./img/berkett-imgs/digger.png">
-
-
-    <!-- CSS here -->
+    
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://maps.googleapis.com">
+   <link rel="dns-prefetch" href="https://maps.googleapis.com">
+    
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="./css/responsive.css">
-    
-<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
 </head>
 
-<body style="visibility: hidden;">
+    <!-- JS here -->
+    <?php include 'componants/scriptTags.php'; ?>
+
+
+<body >
 
     <!-- Preloader -->
     <div id="preloader">
@@ -48,7 +55,7 @@
         <div class="slider-active owl-carousel ">
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute " loading="lazy" width="1900" height="503"><img class="lozad" src="/img/berkett-imgs/corasal/Tennis.webp" alt="tennis court"
+                <div class="slider-img position-absolute "  width="1900" height="503"><img src="/img/berkett-imgs/corasal/Tennis.webp" alt="tennis court"
                 style="">
                 </div>
                 <div class="container ">
@@ -89,7 +96,7 @@
 
             <!-- Single Slider Area -->
             <div class="single-slider">
-                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img class="lozad" src="/img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style=""></div>
+                <div class="slider-img position-absolute" loading="lazy" width="1900" height="503"><img  src="/img/berkett-imgs/corasal/trucks.webp" alt="two trucks" style=""></div>
                 <div class="container ">
                     <div class="row">
                         <div class="col-lg-9">
@@ -313,8 +320,6 @@
     <!-- footer-end -->
 
 
-    <!-- JS here -->
-    <?php include 'componants/scriptTags.php'; ?>
 
 
     </body>
